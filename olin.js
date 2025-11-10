@@ -1,1 +1,1 @@
-document.getElementById('elementId').style.display = 'none';
+document.getElementById('elementId').style.display = 'none'; //nice code
